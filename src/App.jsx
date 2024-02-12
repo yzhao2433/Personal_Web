@@ -3,6 +3,7 @@ import wicclogo from "./assets/img/wicc_logo.png";
 import githublogo from "./assets/img/github.svg";
 import instalogo from "./assets/img/instagram.svg";
 import figmalogo from "./assets/img/figma.svg";
+import location from "./assets/img/location.svg";
 import linkedinlogo from "./assets/img/linkedin.svg";
 import Experience from "./components/Experience.jsx";
 import Project from "./components/Project.jsx";
@@ -11,8 +12,8 @@ import Footer from "./components/Footer.jsx";
 function App() {
   return (
     <>
-      <section className="h-screen w-[80%] flex mx-auto sm:mb-10">
-        <div className="h-full flex flex-row sm:flex-col-reverse">
+      <section className="h-screen w-[80%] flex mx-auto items-center">
+        <div className="h-auto flex flex-row sm:flex-col-reverse space-x-10 sm:space-x-0 ">
           <div className="flex flex-col justify-center space-y-5 text-base">
             {/* TODO 1: Edit the content of these tags!*/}
             <h1>Hi! I'm ______</h1>
@@ -22,8 +23,15 @@ function App() {
               tincidunt, quam non consequat cursus, nibh velit ultricies lorem,
               et accumsan augue justo a diam.
             </p>
-            <p>location</p>
-            <p>Avaliable for new projects</p>
+            <div className="flex flex-row items-center space-x-2">
+              <img src={location} />
+              <p>Ithaca, United States</p>
+            </div>
+            <div className="flex flex-row items-center">
+              <div className="h-2 w-2 bg-green-500 rounded-full mr-2"></div>
+              <p>Avaliable for new projects</p>
+            </div>
+
             {/* TODO 2: Change the links of these tags to link to your socials! */}
             <div className="flex flex-row h-10 space-x-2">
               <a href="">
@@ -42,7 +50,11 @@ function App() {
           </div>
           <div className="flex justify-center ">
             {/* TODO 3: Change this to a custom image! */}
-            <img src={wicclogo} alt="WICC Logo" className="object-contain" />
+            <img
+              src={wicclogo}
+              alt="WICC Logo"
+              className="object-contain sm:p-10"
+            />
           </div>
         </div>
       </section>

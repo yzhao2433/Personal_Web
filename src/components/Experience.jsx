@@ -6,7 +6,7 @@ const Experience = () => {
       {experiences.map((data, index) => (
         <div
           key={index}
-          className="w-[80%] bg-white p-12 rounded-3xl shadow-xl flex flex-col space-y-5"
+          className="w-[80%] sm:w-[90%] bg-white p-12 rounded-3xl shadow-xl flex flex-col space-y-5"
         >
           <div className="flex flex-row items-center space-x-3">
             <img src={data.logo} alt="logo" className="h-16" />
