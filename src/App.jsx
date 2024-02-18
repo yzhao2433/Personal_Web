@@ -1,10 +1,10 @@
 import "./App.css";
-import wicclogo from "./assets/img/wicc_logo.png";
-import githublogo from "./assets/img/github.svg";
-import instalogo from "./assets/img/instagram.svg";
-import figmalogo from "./assets/img/figma.svg";
-import location from "./assets/img/location.svg";
-import linkedinlogo from "./assets/img/linkedin.svg";
+import wicclogo from "/public/img/wicc_logo.png";
+import githublogo from "/public/img/github.svg";
+import instalogo from "/public/img/instagram.svg";
+import figmalogo from "/public/img/figma.svg";
+import location from "/public/img/location.svg";
+import linkedinlogo from "/public/img/linkedin.svg";
 import Experience from "./components/Experience.jsx";
 import Project from "./components/Project.jsx";
 import Footer from "./components/Footer.jsx";

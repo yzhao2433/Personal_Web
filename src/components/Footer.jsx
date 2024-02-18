@@ -1,5 +1,5 @@
-import email from "../assets/img/email.svg";
-import phone from "../assets/img/phone.svg";
+import email from "/public/img/email.svg";
+import phone from "/public/img/phone.svg";
 const Footer = () => {
   return (
     <footer className="bg-[#9CE2D3] rounded-tl-3xl rounded-tr-3xl p-10 flex flex-col space-y-4 px-24 test-base">
