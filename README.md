@@ -6,6 +6,7 @@
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Contributions](#contributions)
+- [Deployment](#deployment)
 - [License](#usage-and-attribution)
 
 ## Introduction
@@ -36,6 +37,42 @@ This project was created with contributions from:
 
 - **Design**: Laura Wu
 - **Implementation**: Dora Weng
+
+## Deployment
+
+Follow these steps to deploy the project to Vercel:
+
+1. Go to [vercel.com](https://vercel.com).
+
+2. Create an account:
+
+   - Click on "Sign Up" and choose the "Hobby" plan.
+   - Enter your name and email address to create your account.
+
+3. Connect to GitHub:
+
+   - After signing up, continue with GitHub authentication to link your GitHub account with Vercel.
+
+4. Add a New Project:
+
+   - Once authenticated, navigate to the dashboard.
+   - Click on "Add" or "New Project" to create a new project.
+   - Choose the option to import a project from your GitHub repositories.
+   - Select the workshop repository from the list and grant access.
+
+5. Customize Project Name:
+
+   - After importing the project, you can customize the project name to your preference.
+
+6. Deploy:
+
+   - Once the project settings are configured, initiate the deployment process.
+   - Vercel will automatically build and deploy your project based on the settings and configurations provided.
+
+7. Access Your Deployed Application:
+   - Once the deployment is complete, Vercel will provide you with a unique URL where your application is hosted. You can access your deployed application using this URL.
+
+That's it! Your project is now deployed and accessible online via Vercel.
 
 ## Usage and Attribution
 
