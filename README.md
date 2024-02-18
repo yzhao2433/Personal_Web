@@ -26,10 +26,22 @@ List any prerequisites or dependencies required to run the project. For example:
 
 Make sure you have Node.js and npm (or Yarn) installed on your system. You can install Node.js from the official Node.js website.
 
-1. Fork the repository: In the upper right corner of the repository page, click on the "Fork" button. This will create a copy of the repository in your GitHub account.
-2. Clone the repository: On your forked repository page, click on the "Code" button. This will reveal a URL. Click on the clipboard icon next to the URL to copy it. Then in your terminal, navigate to the directory where you want to clone the repository. Use the git clone command followed by the repository URL you copied earlier: `git clone <repository-url>`
-3. Install Dependencies: In your terminal, `run npm install`
-4. You're done! Run `npm run dev` to view the site!
+1. **Fork the repository:**
+
+   - In the upper right corner of the repository page, click on the "Fork" button. This will create a copy of the repository in your GitHub account.
+
+2. **Clone the repository:**
+
+   - On your forked repository page, click on the "Code" button. This will reveal a URL. Click on the clipboard icon next to the URL to copy it.
+   - Then in your terminal, navigate to the directory where you want to clone the repository.
+   - Use the `git clone` command followed by the repository URL you copied earlier: `git clone <repository-url>`
+
+3. **Install Dependencies:**
+
+   - In your terminal, run `npm install`
+
+4. **You're done!**
+   - Run `npm run dev` to view the site!
 
 ## Contributions
 
