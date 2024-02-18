@@ -1,6 +1,6 @@
 [
   {
-    "logo": "src/assets/img/wicc_logo.png",
+    "logo": "/src/assets/img/wicc_logo.png",
     "role": "Developer",
     "time": "2023 - Present",
     "bullet points": [
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "logo": "src/assets/img/wicc_logo.png",
+    "logo": "/src/assets/img/wicc_logo.png",
     "role": "Developer",
     "time": "2023 - Present",
     "bullet points": [
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "logo": "src/assets/img/wicc_logo.png",
+    "logo": "/src/assets/img/wicc_logo.png",
     "role": "Developer",
     "time": "2023 - Present",
     "bullet points": [
