@@ -1,7 +1,7 @@
 [
   {
     "name": "Project Name",
-    "logo": "src/img/projectimg.png",
+    "logo": "/img/projectimg.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
     "link": "",
     "tools": [
@@ -12,7 +12,7 @@
   },
   {
     "name": "Project Name",
-    "logo": "src/img/projectimg.png",
+    "logo": "/img/projectimg.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
     "link": "",
     "tools": [
@@ -23,7 +23,7 @@
   },
   {
     "name": "Project Name",
-    "logo": "src/img/projectimg.png",
+    "logo": "/img/projectimg.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
     "link": "",
     "tools": [
