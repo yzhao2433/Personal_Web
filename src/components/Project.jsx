@@ -1,5 +1,5 @@
 import projects from "../data/projects.json";
-import link from "/public/img/link.svg";
+import link from "/src/img/link.svg";
 
 const Project = () => {
   return (
