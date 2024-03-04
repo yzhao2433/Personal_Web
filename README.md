@@ -17,8 +17,6 @@ You can view the Figma file of this template [here](https://www.figma.com/file/u
 
 ## Prerequisites
 
-List any prerequisites or dependencies required to run the project. For example:
-
 - Node.js
 - npm
 
